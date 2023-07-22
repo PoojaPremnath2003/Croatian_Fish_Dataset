@@ -1,0 +1,14 @@
+<root>
+  <folder folder_name="0" species_name="Chromis chromis"/>
+  <folder folder_name="1" species_name="Coris julis female"/>
+  <folder folder_name="2" species_name="Coris julis male"/>
+  <folder folder_name="3" species_name="Diplodus annularis"/>
+  <folder folder_name="4" species_name="Diplodus vulgaris"/>
+  <folder folder_name="5" species_name="Oblada melanura"/>
+  <folder folder_name="6" species_name="Serranus scriba"/>
+  <folder folder_name="7" species_name="Spondyliosoma cantharus"/>
+  <folder folder_name="8" species_name="Spicara maena"/>
+  <folder folder_name="9" species_name="Symphodus melanocercus"/>
+  <folder folder_name="10" species_name="Symphodus tinca"/>
+  <folder folder_name="11" species_name="Sarpa salpa"/>
+</root>
